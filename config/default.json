@@ -1,0 +1,13 @@
+{
+  "host": "localhost",
+  "port": 3030,
+  "mysql": "mysql://root:1234@localhost:3306/recursoshumanos",
+  "public": "../public/",
+  "auth": {
+    "idField": "id",
+    "token": {
+      "secret": "6lgK1tUmDG6OWZfpZexoFsnGm+Q0kQ6fB+OWMxYy3Ywgl6PXIe+aHSPniO1ckpurlKDj0ZFi+SjGuyEox2XfqQ=="
+    },
+    "local": {}
+  }
+}
